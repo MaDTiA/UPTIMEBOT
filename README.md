@@ -77,6 +77,3 @@ If you have any problems, feel free to report them on the GitHub Issues page:
 
 This project is licensed under the **MIT License**, allowing free use, modification, and distribution while giving credit to the original author.
 
----
-
-This should be formatted for direct copying into your GitHub repository without issues! Just make sure to replace `YOUR_GITHUB_USERNAME` and `YOUR_REPO` with your actual information.
