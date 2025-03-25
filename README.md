@@ -1,6 +1,3 @@
-Here’s the properly formatted version for easy copy-pasting:
-
----
 
 # Uptime Kuma Auto-Deploy Script
 
