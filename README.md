@@ -22,9 +22,9 @@ This script provides an automated way to deploy or remove **Uptime Kuma**, a sel
    To use this script, first download it and make it executable:
 
    ```
-   wget https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/deploy-kuma.sh
-   chmod +x deploy-kuma.sh
-   ./deploy-kuma.sh
+   wget https://raw.githubusercontent.com/MaDTiA/UPTIMEBOT/master/uptimebot-monitoring-tool.sh
+   chmod +x uptimebot-monitoring-tool.sh
+   ./uptimebot-monitoring-tool.sh
    ```
 
 2. **Select an Option**
