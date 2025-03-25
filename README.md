@@ -71,7 +71,7 @@ For more information, visit the official website:
 [https://madtia.cc](https://madtia.cc)
 
 If you have any problems, feel free to report them on the GitHub Issues page:  
-[https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO/issues](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO/issues)
+https://github.com/MaDTiA/UPTIMEBOT/issues
 
 ### License:
 
